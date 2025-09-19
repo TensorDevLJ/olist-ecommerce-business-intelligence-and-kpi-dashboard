@@ -15,7 +15,7 @@ This project analyzes the ** E-Commerce Dataset** focusing on:
 - **Geographic distribution** of sales
 - **Key Performance Indicators** (KPIs) for business insights
 
-> 💡 **Perfect for Data/Analytics roles** like PhonePe Graduate Trainee, demonstrating SQL-like analytics, business problem solving, and data visualization skills.
+
 
 ## ✨ Features
 
