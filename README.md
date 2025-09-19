@@ -1,3 +1,4 @@
+
 # 📊 E-Commerce Sales Analytics Dashboard (Olist Dataset)
 
 A comprehensive ** E-Commerce Analytics Dashboard** built with **React + TypeScript** that analyzes the Olist dataset to extract business insights from 100k+ e-commerce orders. This project demonstrates advanced data analytics, business intelligence, and modern web development skills.
@@ -236,12 +237,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Community** - For the amazing ecosystem and tools
 
 ## the website looks like 
-![alt text](<WhatsApp Image 2025-09-19 at 17.23.23_1616e9dd.jpg>)
-![alt text](<WhatsApp Image 2025-09-19 at 17.23.45_aa759fb1.jpg>)
-![alt text](<WhatsApp Image 2025-09-19 at 17.24.04_94ca6d02.jpg>)
-![alt text](<WhatsApp Image 2025-09-19 at 17.24.19_34444a60.jpg>)
+![picture1](<WhatsApp Image 2025-09-19 at 17.23.23_1616e9dd.jpg>)
+![picture2](<WhatsApp Image 2025-09-19 at 17.23.45_aa759fb1.jpg>)
+![picture3](<WhatsApp Image 2025-09-19 at 17.24.04_94ca6d02.jpg>)
+![picture4](<WhatsApp Image 2025-09-19 at 17.24.19_34444a60.jpg>)
 ---
 
 **⭐ Star this repository if you found it helpful!**
 
 Built with ❤️ By Likhithajagadeesh
+=======
